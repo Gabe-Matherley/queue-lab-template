@@ -8,7 +8,7 @@ class Queue():
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def pop(self):
         self.cards.pop(0)
-        #is this testing
+    
        
        
 
